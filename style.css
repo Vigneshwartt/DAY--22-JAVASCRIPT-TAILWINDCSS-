@@ -1,0 +1,40 @@
+body{
+    background-color: #f5e8ba;
+    h1{
+        padding-left: 40%;
+    }
+}
+#whole{
+    padding: 90px;
+    margin-top: 4%;
+    margin-left: 35%;
+
+    border-radius: 1px solid black;
+    background-color: #1f2029;
+    width: 150px;
+    height: 250px;
+   
+    h2{
+        color: #ffeba7;
+    }
+    #one{
+        color: white;
+        padding-left: 25px;
+    }
+    #input{
+        border-radius: 5px solid black;
+        padding-left: 5px;
+    }
+    button{
+            margin-left: 27px;
+            background-color: #ffeba7;
+            border-radius: 4px;
+            color:#102770;
+    }
+    
+    #result{
+        margin: 20px;
+        color: whitesmoke;
+        margin-left: 28px;
+    }
+}
